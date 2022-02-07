@@ -4,7 +4,7 @@ title: 라이브러리와 프레임워크의 차이
 date: '2022-02-06 17:07:00'
 author: Teddy
 tags: nextjs react library framework 라이브러리 프레임워크
-categories: NextJS 기초
+categories: NextJS
 ---
 
 ![](https://www.digitaltechmedia.in/wp-content/uploads/2020/11/framework-vs-library-dtm.jpg)
