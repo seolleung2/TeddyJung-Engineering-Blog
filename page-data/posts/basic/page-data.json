@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-template-js",
+    "path": "/posts/basic",
+    "result": {"pageContext":{"currentCategory":"basic","categories":["All","basic","DailyLog","Dev-Environment","NextJS","리액트기초"],"edges":[{"node":{"id":"b46014aa-d78d-5512-9b3a-9c2fdf18f483","excerpt":"단축키 정리 단축키 정리","fields":{"slug":"/basic/vscode-shortcut-keys/"},"frontmatter":{"categories":"basic","title":"VSCode 자주 쓸 단축키 정리","date":"February 22, 2022"}},"next":{"fields":{"slug":"/DailyLog/retrospective-220229/"}},"previous":null}]}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-about-js",
+    "path": "/about/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Teddyjung.dev","description":"테디정의 DailyLog","language":"ko","author":{"name":"Teddy🐤","bio":{"role":"개발자","description":["호기심이 많은","책 읽는 것을 좋아하는","이로운 것을 만드는"],"thumbnail":"teddy1.jpeg"},"social":{"github":"https://github.com/seolleung2","linkedIn":"","email":"seolleung22@gmail.com"}},"about":{"timestamps":[{"date":"","activity":"","links":{"post":"","github":"","demo":"","googlePlay":"","appStore":""}},{"date":"🗓 2020.03 ~","activity":"웹 개발 학습 시작","links":{"post":"","github":"","demo":"","googlePlay":null,"appStore":null}},{"date":"🗓 2021.05 ~","activity":"프론트엔드 신입 개발자 취업","links":{"post":"","github":"","demo":"","googlePlay":null,"appStore":null}}],"projects":[{"title":"","description":"","techStack":["",""],"thumbnailUrl":"","links":{"post":"","github":"","demo":"","googlePlay":"","appStore":""}}]}}}},"pageContext":{}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437","3350743975"]}
